@@ -20,9 +20,8 @@
 	height: auto;
 }
 .anu{
-	height: auto;
-	margin-bottom: 0px;
-	border: 0px;
+	padding: 20px 0px 0px 0px;
+	font-size: 15PX;
 }
 
 .anu1{
@@ -105,7 +104,11 @@
 }
 
 .judul li a{
-	color: #5E5151;
+	color: #2B2A2A;
+}
+
+.judul {
+	color: #2B2A2A;
 }
 
 .nama{
@@ -119,4 +122,18 @@
 
 .bulan{
 	font-size: 15px;
+}
+
+.pesan{
+	font-size: 15px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.kebawah{
+	padding-bottom: 30px
+}
+
+.nomor li {
+	padding: 10px 30px;
 }

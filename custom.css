@@ -1,6 +1,26 @@
+h1{
+	font-size: 28px;
+}
+
+h2{
+	font-size: 25px;
+}
+
+h3{
+	font-size: 22px;
+}
+
+h4{
+	font-size: 20px;
+}
+
+h5{
+	font-size: 18px;
+}
 .kepala{
 	background-color: #E3E0E0;
 	margin-bottom:0px;
+	border-radius:0px;
 }
 
 .dropdown:hover .dropdown-menu {
@@ -29,6 +49,9 @@
 	width: auto;
 }
 
+.anu3{
+	border-radius: 0px;
+}
 .navbar1{
  margin-left: 800px;
 }
@@ -136,4 +159,17 @@
 
 .nomor li {
 	padding: 10px 30px;
+}
+
+.profile img{
+	float: left;
+}
+
+.breadcrumb {
+	margin-top: -20px;
+	background-color: #E3E0E0;
+}
+
+.curent-page{
+ background-color: #fff;	
 }
